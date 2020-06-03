@@ -5,9 +5,6 @@ function doScreenshot() {
 // hide Stuff
 
 document.getElementById("feedback").style.display = "none";
-document.getElementById("one99").style.display = "none";
-document.getElementById("four99").style.display = "none";
-document.getElementById("nine99").style.display = "none";
 
 document.getElementById("mostUsedButtons").innerHTML = "";
 
