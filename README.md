@@ -2,19 +2,13 @@
 
 A JavaScript application to analyze WhatsApp chat history locally in your browser.
 
-## ☕️ Caffeine fund ☕️
-
-If you found this tool useful or fun, please consider buying me a coffee 😀
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5PTUQRRMS2X6E)
-
 ## Usage
 
-* Clone the repository `git clone https://github.com/mowolf/ChatAnalyzer.git`
+* Clone the repository `git clone https://github.com/SpaceBaar/ChatAnalyzer.git`
 * Open `index.html` in the root folder.
 * Follow instructions on the web page.
 
-Alternatively you can use the official [hosted version](https://chatanalyzer.moritzwolf.com) of this code.
+Alternatively you can use the official [hosted version](https://chatanalyzer.spacebaar.com) of this code.
 
 ## What happens to my chat data?
 
@@ -24,13 +18,13 @@ The application works completly offline once the page has loaded. You can turn o
 
 ## Reporting Issues
 
-Please open a [new Github Issue](https://github.com/mowolf/ChatAnalyzer/issues/new) if you find any issues or have suggestions/improvements for the project.
+Please open a [new Github Issue](https://github.com/SpaceBaar/ChatAnalyzer/issues/new) if you find any issues or have suggestions/improvements for the project.
 
 Please also supply your data format (e.g. `[07.09.17, 6:44:16 PM] NAME: message`) and Language/Region setting of our phone if you are having a specific problem with data not loading correctly.
 
 ## Have a great idea for a new graph?
 
-Head over to [planned features](https://github.com/mowolf/ChatAnalyzer/labels/enhancement) and add your idea if it's missing!
+Head over to [planned features](https://github.com/SpaceBaar/ChatAnalyzer/labels/enhancement) and add your idea if it's missing!
 
 ## Wanna help making this better?
 
